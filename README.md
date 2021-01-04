@@ -9,7 +9,7 @@ Further information about requirments and contraint can be found [here](https://
 
 You can acess and interact with the UI/UX through the link below.
 
-> [Live UI/UX Preview](Link-here)
+> [Live UI/UX Preview](https://xd.adobe.com/view/5d831571-0dd4-471d-b237-2e0011e853da-08d0/?fullscreen )
 
 ## Interface Design Document
 

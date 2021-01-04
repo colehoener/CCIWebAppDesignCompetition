@@ -1,1 +1,1 @@
-# CCIWebAppDesignCompetition
+# CCI Web App Design Competition

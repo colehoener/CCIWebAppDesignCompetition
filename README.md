@@ -17,6 +17,10 @@ The Interface Design Document (IDD) outlines the UI/UX design. A detailed descri
 
 ## Additional Information
 
+### User Testing
+
+Users were prompted to tour the UI/UX design and then fill out a short survey about their experience. The analysis and report can be found in the Excel file name "Survey Report". Overall, responses were very favorable in terms of design and feel.
+
 ### Challenges
 
 While creating the UI/UX, we found that staying within the constraints, while still creating a user friendly design, proved to be difficult. It was challenging to find a way to display all the information a user would need to know, since it quickly made the UI feel cluttered. While designing the general layout and flow of the web app, another issue arose. We figured that while the requirements state that the user needs to only select certficates to arrive at degrees, it would be benifical to be able to go in the reverse direction. That is, select master's degrees to understand what is required to arrive at them. The design we created follows the original constraints and requirements while adding to the user experience in a logical way.

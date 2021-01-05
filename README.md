@@ -19,7 +19,7 @@ The Interface Design Document (IDD) outlines the UI/UX design. A detailed descri
 
 ### Challenges
 
-While creating the UI/UX, staying within the constraints, while creating a user friendly design proved to be difficult. We found that displaying all the information a user would need to know was challenging, since it quickly made the UI feel cluttered. While designing the general layout and flow of the web app, another issue arose. We figured that while the requirements state that the user needs to only select certficates to arrive at degrees, it would be benifical to be able to go in the reverse direction. That is, select master's degrees to understand what is required to arrive at them. The design we created follows the original constraints and requirements while adding to the user experience in a logical way.
+While creating the UI/UX, we found that staying within the constraints, while still creating a user friendly design, proved to be difficult. It was challenging to find a way to display all the information a user would need to know, since it quickly made the UI feel cluttered. While designing the general layout and flow of the web app, another issue arose. We figured that while the requirements state that the user needs to only select certficates to arrive at degrees, it would be benifical to be able to go in the reverse direction. That is, select master's degrees to understand what is required to arrive at them. The design we created follows the original constraints and requirements while adding to the user experience in a logical way.
 
 ## Credits
     Developed by Cole Hoener and Amanda Warkow.
